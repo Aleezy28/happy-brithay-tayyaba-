@@ -236,31 +236,32 @@ export const DUAS = [
 
 // ===== IMAGES =====
 export const POLAROID_IMAGES = [
-  { src: '/assets/photos/pic1.jpg', fallback: '/assets/photos/pic1.jpg' },
-  { src: '/assets/photos/pic2.jpg', fallback: '/assets/photos/pic2.jpg' },
-  { src: '/assets/photos/pic3.jpg', fallback: '/assets/photos/pic3.jpg' },
-  { src: '/assets/photos/pic4.jpg', fallback: '/assets/photos/pic4.jpg' },
-  { src: '/assets/photos/pic5.jpg', fallback: '/assets/photos/pic5.jpg' },
-  { src: '/assets/photos/pic6.jpg', fallback: '/assets/photos/pic6.jpg' },
-  { src: '/assets/photos/pic7.jpg', fallback: '/assets/photos/pic7.jpg' },
-  { src: '/assets/photos/pic8.jpg', fallback: '/assets/photos/pic8.jpg' },
-  { src: '/assets/photos/pic9.jpg', fallback: '/assets/photos/pic9.jpg' },
-  { src: '/assets/photos/pic10.jpg', fallback: '/assets/photos/pic10.jpg' },
-  { src: '/assets/photos/pic11.jpg', fallback: '/assets/photos/pic11.jpg' },
-  { src: '/assets/photos/pic12.jpg', fallback: '/assets/photos/pic12.jpg' },
-  { src: '/assets/photos/pic13.jpg', fallback: '/assets/photos/pic13.jpg' },
-  { src: '/assets/photos/pic14.jpg', fallback: '/assets/photos/pic14.jpg' },
-  { src: '/assets/photos/pic15.jpg', fallback: '/assets/photos/pic15.jpg' },
-  { src: '/assets/photos/pic16.jpg', fallback: '/assets/photos/pic16.jpg' },
-  { src: '/assets/photos/pic17.jpg', fallback: '/assets/photos/pic17.jpg' },
-  { src: '/assets/photos/pic18.jpg', fallback: '/assets/photos/pic18.jpg' },
-  { src: '/assets/photos/pic19.jpg', fallback: '/assets/photos/pic19.jpg' },
-  { src: '/assets/photos/pic20.jpg', fallback: '/assets/photos/pic20.jpg' },
-  { src: '/assets/photos/pic21.jpg', fallback: '/assets/photos/pic21.jpg' },
-  { src: '/assets/photos/pic22.jpg', fallback: '/assets/photos/pic22.jpg' },
-  { src: '/assets/photos/pic23.jpg', fallback: '/assets/photos/pic23.jpg' },
+  { src: '/happy-brithay-tayyaba-/assets/photos/pic1.jpg', fallback: '/happy-brithay-tayyaba-/assets/photos/pic1.jpg' },
+  { src: '/happy-brithay-tayyaba-/assets/photos/pic2.jpg', fallback: '/happy-brithay-tayyaba-/assets/photos/pic2.jpg' },
+  { src: '/happy-brithay-tayyaba-/assets/photos/pic3.jpg', fallback: '/happy-brithay-tayyaba-/assets/photos/pic3.jpg' },
+  { src: '/happy-brithay-tayyaba-/assets/photos/pic4.jpg', fallback: '/happy-brithay-tayyaba-/assets/photos/pic4.jpg' },
+  { src: '/happy-brithay-tayyaba-/assets/photos/pic5.jpg', fallback: '/happy-brithay-tayyaba-/assets/photos/pic5.jpg' },
+  { src: '/happy-brithay-tayyaba-/assets/photos/pic6.jpg', fallback: '/happy-brithay-tayyaba-/assets/photos/pic6.jpg' },
+  { src: '/happy-brithay-tayyaba-/assets/photos/pic7.jpg', fallback: '/happy-brithay-tayyaba-/assets/photos/pic7.jpg' },
+  { src: '/happy-brithay-tayyaba-/assets/photos/pic8.jpg', fallback: '/happy-brithay-tayyaba-/assets/photos/pic8.jpg' },
+  { src: '/happy-brithay-tayyaba-/assets/photos/pic9.jpg', fallback: '/happy-brithay-tayyaba-/assets/photos/pic9.jpg' },
+  { src: '/happy-brithay-tayyaba-/assets/photos/pic10.jpg', fallback: '/happy-brithay-tayyaba-/assets/photos/pic10.jpg' },
+  { src: '/happy-brithay-tayyaba-/assets/photos/pic11.jpg', fallback: '/happy-brithay-tayyaba-/assets/photos/pic11.jpg' },
+  { src: '/happy-brithay-tayyaba-/assets/photos/pic12.jpg', fallback: '/happy-brithay-tayyaba-/assets/photos/pic12.jpg' },
+  { src: '/happy-brithay-tayyaba-/assets/photos/pic13.jpg', fallback: '/happy-brithay-tayyaba-/assets/photos/pic13.jpg' },
+  { src: '/happy-brithay-tayyaba-/assets/photos/pic14.jpg', fallback: '/happy-brithay-tayyaba-/assets/photos/pic14.jpg' },
+  { src: '/happy-brithay-tayyaba-/assets/photos/pic15.jpg', fallback: '/happy-brithay-tayyaba-/assets/photos/pic15.jpg' },
+  { src: '/happy-brithay-tayyaba-/assets/photos/pic16.jpg', fallback: '/happy-brithay-tayyaba-/assets/photos/pic16.jpg' },
+  { src: '/happy-brithay-tayyaba-/assets/photos/pic17.jpg', fallback: '/happy-brithay-tayyaba-/assets/photos/pic17.jpg' },
+  { src: '/happy-brithay-tayyaba-/assets/photos/pic18.jpg', fallback: '/happy-brithay-tayyaba-/assets/photos/pic18.jpg' },
+  { src: '/happy-brithay-tayyaba-/assets/photos/pic19.jpg', fallback: '/happy-brithay-tayyaba-/assets/photos/pic19.jpg' },
+  { src: '/happy-brithay-tayyaba-/assets/photos/pic20.jpg', fallback: '/happy-brithay-tayyaba-/assets/photos/pic20.jpg' },
+  { src: '/happy-brithay-tayyaba-/assets/photos/pic21.jpg', fallback: '/happy-brithay-tayyaba-/assets/photos/pic21.jpg' },
+  { src: '/happy-brithay-tayyaba-/assets/photos/pic22.jpg', fallback: '/happy-brithay-tayyaba-/assets/photos/pic22.jpg' },
+  { src: '/happy-brithay-tayyaba-/assets/photos/pic23.jpg', fallback: '/happy-brithay-tayyaba-/assets/photos/pic23.jpg' },
 ];
 
-export const PUZZLE_IMAGE = { src: '/assets/photos/pic1.jpg', fallback: '/assets/photos/pic1.jpg' };
+export const PUZZLE_IMAGE = { src: '/happy-brithay-tayyaba-/assets/photos/pic1.jpg', fallback: '/happy-brithay-tayyaba-/assets/photos/pic1.jpg' };
 // YouTube background music — video ID from https://youtu.be/_z-1fTlSDF0
 export const YOUTUBE_MUSIC_ID = '_z-1fTlSDF0';
+

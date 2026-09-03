@@ -175,3 +175,4 @@ export default function LockScreen({ onUnlock }: Props) {
     </div>
   );
 }
+

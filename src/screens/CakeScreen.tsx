@@ -224,3 +224,4 @@ export default function CakeScreen({ onContinue }: Props) {
     </div>
   );
 }
+

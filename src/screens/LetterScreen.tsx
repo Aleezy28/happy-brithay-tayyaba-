@@ -212,3 +212,4 @@ export default function LetterScreen({ onContinue }: Props) {
     </div>
   );
 }
+

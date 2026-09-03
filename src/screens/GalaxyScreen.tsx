@@ -793,3 +793,4 @@ export default function GalaxyScreen({ onRestart }: Props) {
     </div>
   );
 }
+

@@ -161,3 +161,4 @@ export default function LoadingScreen({ onComplete }: Props) {
     </div>
   );
 }
+
